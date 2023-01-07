@@ -24,8 +24,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img src="https://img.icons8.com/color/48/null/power-bi.png"/> <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelldatAnalyst&layout=compact)](https://github.com/WelldatAnalyst/github-readme-stats)
-
 
 
 - [bank financial transaction dashboard](https://www.linkedin.com/posts/wellington-souza-analista-de-sistemas-45104992_powerbi-dataanalysisjobs-dataanalyst-activity-7013471566118203392-z4Xg?utm_source=share&utm_medium=member_desktop)<br/>
