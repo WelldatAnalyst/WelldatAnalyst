@@ -5,7 +5,7 @@ A system analyst by training and an enthusiast in data analysis and computer sci
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=WelldatAnalyst&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WelldatAnalyst&show_icons=true&theme=radical&include_all_commits=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WelldatAnalyst&layout=compact)](https://github.com/WelldatAnalyst/github-readme-stats)
 
