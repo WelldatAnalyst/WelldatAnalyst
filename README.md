@@ -7,7 +7,7 @@ A system analyst by training and an enthusiast in data analysis and computer sci
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WelldatAnalyst&show_icons=true&theme=radical&include_all_commits=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welldatAnalyst&layout=compact)](https://github.com/welldatAnalyst/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=welldatAnalyst&layout=compact)](https://github.com/welldatAnalyst/github-readme-stats)
 
 
 ## Skill Set :muscle:
