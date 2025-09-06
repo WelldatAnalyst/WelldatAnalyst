@@ -1,6 +1,6 @@
 ## Hello ! I am is Wellington or Welldeveloper 💻👨‍💻
 
-A system analyst by training and an enthusiast in data analysis and computer science student, I have a huge passion for the possibilities it can provide to increase the quality of life of the people I have been focusing my time studying in this area.
+A system analyst by training and an enthusiast in software engineering and computer science student, I have a huge passion for the possibilities it can provide to increase the quality of life of the people I have been focusing my time studying in this area.
 
 
 ## Some of my stats :bar_chart:
